@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ScarletWitch</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Starling-FFParticleSystem-master-src</name>
+			<type>2</type>
+			<location>C:/Users/PC/Desktop/Scarlet Resource/Starling-FFParticleSystem-master-src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/Users/PC/Desktop/Scarlet Resource/starling-src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
